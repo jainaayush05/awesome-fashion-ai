@@ -36,7 +36,13 @@ Areas
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf), ECCV, 2018
   - [Style2Vec: Representation Learning for Fashion Items from Style Sets](https://arxiv.org/pdf/1708.04014v1.pdf)
   - [Context-Aware Visual Compatibility Prediction](https://arxiv.org/abs/1902.03646)
-  
+  - [Multi Modal Embedding for Main Product Detection in Fashion](http://www.iri.upc.edu/files/scidoc/1938-Multi-Modal-Embedding-for-Main-Product-Detection-in-Fashion.pdf)
+  - [FashionModel: Mapping Images of Clothes to an Embedding Space](http://rsenapps.com/fashionmodel.pdf)
+  - [DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)
+  - [MULTI-MODAL JOINT EMBEDDING FOR FASHION PRODUCT RETRIEVAL](http://www.iri.upc.edu/files/scidoc/1904-Multi-Modal-Joint-Embedding-for-Fashion-Product-Retrieval.pdf)
+  - [Image2Text and Text2Image](https://pdfs.semanticscholar.org/28be/ce702ab7ca2b7c51c778ecbc126acdbf78a9.pdf), [demo here](http://roshi.cs.kuleuven.be/multimodal_search/#/demopage)
+  - [Joint Multimodal](https://drive.google.com/file/d/1uHyRD7806pwbrh5XzZ7cddyZi16jQe-F/view?usp=sharing)
+
 ##### Personalisation/Recommendation/Outfit Composition/Compatibility
   - [Hi, magic closet, tell me what to wear!](https://arxiv.org/pdf/1506.04757.pdf), MM, 2012
   - [Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources](https://arxiv.org/pdf/1807.03235v1.pdf)
@@ -50,8 +56,8 @@ Areas
   - [Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/pdf/1707.05691v1.pdf)
   - [Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences](https://arxiv.org/pdf/1509.07473v1.pdf)
   - [Recommending Outfits from Personal Closet](https://arxiv.org/pdf/1804.09979v1.pdf)
-  - [Toward Explainable Fashion Recommendation](https://arxiv.org/pdf/1901.04870v1.pdf) 
-  
+  - [Toward Explainable Fashion Recommendation](https://arxiv.org/pdf/1901.04870v1.pdf)
+
 ##### Visual Search/Visual Recommendation/Visual Retrieval
   - [Studio2Shop: from studio photo shoots to fashion articles](https://arxiv.org/pdf/1807.00556v1.pdf)
   - [Learning Attribute Representations with Localization for Flexible Fashion Search](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ak_Learning_Attribute_Representations_CVPR_2018_paper.pdf)
@@ -75,7 +81,7 @@ Areas
   - ["Let me convince you to buy my product ... ": A Case Study of an Automated Persuasive System for Fashion Products](https://arxiv.org/pdf/1709.08366v1.pdf)
   - ["Designing the Future of Personal Fashion"](http://ranjithakumar.net/resources/personal_fashion.pdf)
   - [Deep Recurrent Neural Networks for Product Attribute Extraction in eCommerce](https://arxiv.org/pdf/1803.11284v1.pdf)
-  
+
 ##### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation/Landmark Detection
   - [How To Extract Fashion Trends From Social Media?](https://arxiv.org/pdf/1806.10787v1.pdf)
   - [Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
@@ -91,7 +97,7 @@ Areas
   - [Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items](http://www.tamaraberg.com/papers/paperdoll.pdf)
   - [Two-Stream Multi-Task Network for Fashion Recognition](https://arxiv.org/abs/1901.10172v2)
   - [Spatial-Aware Non-Local Attention for Fashion Landmark Detection](https://arxiv.org/abs/1903.04104v1)
-  
+
 ##### Retail Insights/Trends/Forecasting/Inventory Management
   - [FashionBrain Project: A Vision for Understanding Europe’s Fashion Data Universe](https://arxiv.org/pdf/1710.09788v1.pdf)
   - [Fashion Forward: Forecasting Visual Style in Fashion](https://arxiv.org/pdf/1705.06394v2.pdf)
@@ -102,7 +108,7 @@ Areas
   - [Changing Fashion Culture](https://arxiv.org/pdf/1703.07920v1.pdf)
   - [Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf)
   - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
-  
+
 ##### Image Generation/Image Manipulation in Fashion/Style Transfer
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
   - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
@@ -112,26 +118,26 @@ Areas
 
 ##### Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
-  
+
 ##### Social Media
   - [Chic or Social: Visual Popularity Analysis in OnlineFashion Networks](http://www.tamaraberg.com/papers/kota_acm14.pdf)
   - [Identifying Fashion Accounts in Social Networks](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_21.pdf)
-  
+
 ##### Sizing/Virtual Trial Room
   - [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](https://cseweb.ucsd.edu/~m5wan/paper/recsys18_rmisra)
   - [M2E-Try On Net: Fashion from Model to Everyone](https://arxiv.org/pdf/1811.08599v1.pdf)
-  
+
 ##### Video
   - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
   - [Video2Shop: Exactly Matching Clothes in Videos to Online Shopping Images](https://arxiv.org/abs/1804.05287v1), CVPR, 2017
 
 ##### Multimodal
   - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
- 
+
 ##### Dialog/Conversation
   - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
   - [Fashion Conversation Data on Instagram](https://arxiv.org/pdf/1704.04137.pdf)
-  
+
 ##### Clothing Model
   - [DeepWrinkles: Accurate and Realistic Clothing Modeling](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf), ECCV 2018
 
@@ -155,6 +161,7 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 * Fashion Takes Shape
 * ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
 * [DeepFashion2](https://github.com/switchablenorms/DeepFashion2),[paper](https://arxiv.org/abs/1901.07973)
+* [ProductNet](https://arxiv.org/pdf/1904.09037.pdf)
 <!---
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
