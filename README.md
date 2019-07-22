@@ -133,6 +133,7 @@ Areas
 
 ##### Multimodal
   - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
+  - [Mining Fashion Outfit Composition Using An End-to-End Deep Learning Approach on Set Data] (https://arxiv.org/pdf/1608.03016.pdf)
 
 ##### Dialog/Conversation
   - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
